@@ -266,6 +266,10 @@ nav a:hover::before {
   opacity: 1;
 }
 
+.slide a {
+	color: #d4d6fd;
+}
+
 .slides {
   width: 600vw;
   height: 100vh;
